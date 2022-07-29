@@ -25,7 +25,7 @@ then
 	cp -r C:/Users/spenc/dev/devinit/course/. $CREATE_PATH/$name/
 fi
 
-# I ADDED A COMMENT
+# I MADE A MAIN COMMENT ENERY 
 # FEATURE1
 echo "This is feature 1"
 $SHELL

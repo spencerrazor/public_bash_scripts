@@ -26,5 +26,6 @@ then
 fi
 
 # I ADDED A COMMENT
-
+# FEATURE1
+echo "This is feature 1"
 $SHELL
